@@ -1,6 +1,6 @@
 # Hi, I'm **Dev Vrat** 👋
 
-**Sort of likes computers and maths**. Always learning. 🐈
+**Sort of likes computer and math**. Always learning. 🐈
 
 ---
 <p align="center">
