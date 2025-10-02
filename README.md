@@ -3,8 +3,10 @@
 **Sort of likes computer and math**. Always learning. 🐈
 
 ---
+
+
 <p align="center">
-  <img src="https://i.ibb.co/ks3DHHvW/Dev-Vrat.png" alt="Dev-Vrat" border="0" alt="https://sites.google.com/view/devvratmishra/home">
+  <img src="https://i.ibb.co/ks3DHHvW/Dev-Vrat.png" alt="Website - https://sites.google.com/view/devvratmishra/home">
 </p>
 
 
